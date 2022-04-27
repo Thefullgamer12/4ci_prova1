@@ -2,7 +2,7 @@
  * 
  * @author Francesco
  * 
- * @version1
+ * @version2
  * 
  * 
  */
@@ -10,6 +10,6 @@ public class Main {
 
 	   public static void main(String[] args) {
 		   
-		 System.out.println("Prova1");
+		 System.out.println("Prova2");
 	   }
 }
